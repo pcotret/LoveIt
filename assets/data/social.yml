@@ -38,11 +38,11 @@ facebook:
   Icon:
     Class: fab fa-facebook fa-fw
 
-# 006: Telegram
-telegram:
+# 006: Root Me
+rootme:
   Weight: 6
-  Prefix: https://t.me/
-  Title: Telegram
+  Prefix: https://www.root-me.org/
+  Title: Root Me
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
