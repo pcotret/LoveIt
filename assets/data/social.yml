@@ -44,7 +44,7 @@ rootme:
   Prefix: https://www.root-me.org/
   Title: Root Me
   Icon:
-    Class: fab fa-telegram-plane fa-fw
+    Class: fab fa-font-awesome-flag fa-fw
 
 # 007: Medium
 medium:
