@@ -46,13 +46,13 @@ rootme:
   Icon:
     Class: fab fa-font-awesome-flag fa-fw
 
-# 007: Medium
-medium:
+# 007: Newbie contest
+newbie:
   Weight: 7
-  Prefix: https://medium.com/
-  Title: Medium
+  Prefix: https://www.newbiecontest.org/
+  Title: Newbie Contest
   Icon:
-    Class: fab fa-medium fa-fw
+    Class: fab fa-font-awesome fa-fw
 
 # 008: GitLab
 gitlab:
