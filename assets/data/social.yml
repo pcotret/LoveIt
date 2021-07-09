@@ -44,7 +44,7 @@ rootme:
   Prefix: https://www.root-me.org/
   Title: Root Me
   Icon:
-    Class: fab fa-font-awesome-flag fa-fw
+    Class: fas fa-flag-checkered fa-fw
 
 # 007: Newbie contest
 newbie:
@@ -52,7 +52,7 @@ newbie:
   Prefix: https://www.newbiecontest.org/
   Title: Newbie Contest
   Icon:
-    Class: fab fa-font-awesome fa-fw
+    Class: fas fa-dragon fa-fw
 
 # 008: GitLab
 gitlab:
