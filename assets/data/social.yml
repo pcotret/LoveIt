@@ -40,7 +40,7 @@ facebook:
 
 # 006: Root Me
 rootme:
-  Weight: 6
+  Weight: 7
   Prefix: https://www.root-me.org/
   Title: Root Me
   Icon:
@@ -48,7 +48,7 @@ rootme:
 
 # 007: Newbie contest
 newbie:
-  Weight: 7
+  Weight: 8
   Prefix: https://www.newbiecontest.org/
   Title: Newbie Contest
   Icon:
@@ -56,19 +56,19 @@ newbie:
 
 # 008: GitLab
 gitlab:
-  Weight: 8
+  Weight: 6
   Prefix: https://gitlab.com/
   Title: GitLab
   Icon:
     Class: fab fa-gitlab fa-fw
 
-# 009: YouTube Legacy
-youtubelegacy:
+# 009: CryptoHack
+cryptohack:
   Weight: 9
-  Prefix: https://www.youtube.com/user/
-  Title: YouTube
+  Prefix: https://cryptohack.org/user/
+  Title: CryptoHack
   Icon:
-    Class: fab fa-youtube fa-fw
+    Class: fas fa-robot fa-fw
 
 # 010: YouTube Custom
 youtubecustom:
